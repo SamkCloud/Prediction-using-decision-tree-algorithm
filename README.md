@@ -34,4 +34,4 @@ Then
 
 Defining the Decision Tree Algorithm and Predicting until the gini value comes to 0.00
 
-And thats how task 6 is compelted.
+And thats how task 6 is completed.
